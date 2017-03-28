@@ -1,4 +1,4 @@
-#!/usr/local/bin/bash
+#!/usr/bin/env bash
 # -*- mode: sh; -*-
 
 declare rgs_owd="$PWD"
